@@ -1,0 +1,13 @@
+name: Hello_Shiny
+title: Hello_Shiny
+username:
+account: bio-data-science
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9768044
+bundleId: 7646982
+url: https://bio-data-science.shinyapps.io/Hello_Shiny/
+when: 1693921177.2703
+lastSyncTime: 1693921177.27031
+asMultiple: FALSE
+asStatic: FALSE
